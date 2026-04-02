@@ -4,3 +4,6 @@ pwd -> mostra o diretório de trabalhos
 cat -> exibe conteúdo do arquivo
 rm -> remove arquivo ou diretório
 rm -f -> remove de forma recursiva e forçada todos os diretórios
+
+dane-se
+
