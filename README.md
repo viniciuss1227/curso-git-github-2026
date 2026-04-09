@@ -19,4 +19,5 @@ pessoas participantes:
 
 
 * Vini
+* Téo Calvo
 
